@@ -7,7 +7,7 @@ function App() {
 
   return (
     <div style={{
-      backgroundImage: `url('https://cdn.pixabay.com/photo/2025/11/28/14/39/sunset-9983072_1280.jpg')`,
+      backgroundImage: `url('https://cdn.pixabay.com/photo/2017/03/12/06/18/container-2136505_960_720.jpg')`,
       backgroundSize: 'cover',
       backgroundPosition: 'center',
       minHeight: '100vh',
@@ -21,8 +21,8 @@ function App() {
       width: '100%',
       margin: 0,
     }}>
-      <h1 style={{ margin: 0, fontSize: '4.2em' }}>Welcome to Docker</h1>
-      <p style={{ margin: 0, fontSize: '2em' }}>Docker App Running Successfully!</p>
+      <h1 style={{ margin: 0, color: '#ffffff', fontSize: '4.2em' }}>Welcome to Docker</h1>
+      <p style={{ margin: 0, color: '#ffffff', fontSize: '2em' }}>Docker App Running Successfully!</p>
 
     </div>
   )
